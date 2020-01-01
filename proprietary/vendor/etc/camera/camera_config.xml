@@ -187,6 +187,52 @@ W_AUX for micro camera
    </CameraModuleConfig>
   <CameraModuleConfig>
     <CameraId>1</CameraId>
+    <SensorName>ginkgo_gc02m1_ofilm_ii</SensorName>
+    <ChromatixName>ginkgo_gc02m1_ofilm_ii_chromatix</ChromatixName>
+    <ModesSupported>1</ModesSupported>
+    <Position>BACK_AUX</Position>
+    <MountAngle>90</MountAngle>
+    <CSIInfo>
+       <CSIDCore>1</CSIDCore>
+      <LaneMask>0x7</LaneMask>
+      <LaneAssign>0x4320</LaneAssign>
+       <ComboMode>0</ComboMode>
+     </CSIInfo>
+     <LensInfo>
+       <FocalLength>1.94</FocalLength>
+       <FNumber>2.4</FNumber>
+       <TotalFocusDistance>4.0</TotalFocusDistance>
+       <HorizontalViewAngle>71.0</HorizontalViewAngle>
+       <VerticalViewAngle>56.0</VerticalViewAngle>
+       <MinFocusDistance>0.1</MinFocusDistance>
+     </LensInfo>
+   </CameraModuleConfig>
+   <CameraModuleConfig>
+    <CameraId>1</CameraId>
+    <SensorName>ginkgo_gc02m1_sunny_ii</SensorName>
+    <ChromatixName>ginkgo_gc02m1_sunny_ii_chromatix</ChromatixName>
+    <ModesSupported>1</ModesSupported>
+    <Position>BACK_AUX</Position>
+    <MountAngle>90</MountAngle>
+    <CSIInfo>
+       <CSIDCore>1</CSIDCore>
+      <LaneMask>0x7</LaneMask>
+      <LaneAssign>0x4320</LaneAssign>
+       <ComboMode>0</ComboMode>
+     </CSIInfo>
+     <LensInfo>
+       <FocalLength>1.94</FocalLength>
+       <FNumber>2.4</FNumber>
+       <TotalFocusDistance>4.0</TotalFocusDistance>
+       <HorizontalViewAngle>71.0</HorizontalViewAngle>
+       <VerticalViewAngle>56.0</VerticalViewAngle>
+       <MinFocusDistance>0.1</MinFocusDistance>
+     </LensInfo>
+   </CameraModuleConfig>
+   
+
+  <CameraModuleConfig>
+    <CameraId>1</CameraId>
     <SensorName>ginkgo_gc2375h_ofilm_ii</SensorName>
     <ChromatixName>ginkgo_gc2375h_ofilm_ii_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
